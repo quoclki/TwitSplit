@@ -1,8 +1,8 @@
-#TwitSplitDemo
+# TwitSplitDemo
 
 TwitSplit Project for ZALORA's pre-interview assignment
 
-#Environment
+# Environment
 
 Xcode 9.4.1
 Swift 4.1
@@ -13,8 +13,8 @@ Split Message funtion
 Unit Test for Split Message funtion
 Documentation.
 
-#Workflow of Split Message
+# Workflow of Split Message
 
 
 
-#What I want to improve
+# What I want to improve
